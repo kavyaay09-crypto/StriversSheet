@@ -19,4 +19,15 @@ In this problem we should take duplicate of N as Original
  371 = 3^3 + 7^3 + 1^3 
  it's a Amstrong Number
 
- 
+ #PrintAllDivisor
+ N=12
+1,2,3,4,6,12
+
+ #CheckForPrime
+ N=32
+ it's not a prime 
+
+ #Gcd
+
+ considering time complexity , we have Euclidian Algorithm
+  gcd(a,b)= gcd(a-b,b) a>b

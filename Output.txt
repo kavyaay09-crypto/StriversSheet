@@ -31,3 +31,30 @@ In this problem we should take duplicate of N as Original
 
  considering time complexity , we have Euclidian Algorithm
   gcd(a,b)= gcd(a-b,b) a>b
+
+for all when any function a/b
+time complexity = logb(n);
+
+#Recursion 
+  #Print name multiple time
+  Name 
+Enter N: 7
+Kavya
+Kavya
+Kavya
+Kavya
+Kavya
+Kavya
+Kavya
+ 
+ #SumofN 
+ Enter N: 5
+15
+
+  #Factorial 
+    
+Enter N: 5
+120
+
+#Recursion.OnArray 
+[5, 4, 3, 2, 1]
